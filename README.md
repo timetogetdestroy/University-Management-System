@@ -7,7 +7,7 @@ Step 1: Download the Source Code
 
 Clone this repository using the command:
 
-https://github.com/timetogetdestroy/University-Management-System
+https://github.com/timetogetdestroy/University-Management-System.git
 
 3. Input / Output
    
